@@ -1,5 +1,5 @@
 class EmailAddressParser #(string)
-  
+  attr_accessor 
   #def initialize(string)
   #@string = string
 end
