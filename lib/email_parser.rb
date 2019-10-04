@@ -1,4 +1,7 @@
-class EmailAddressParser
+class EmailAddressParser(string)
+  
+  #def initialize(string)
+  #@string = string
 end
 
 
